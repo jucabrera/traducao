@@ -34,7 +34,7 @@
        <note>
         <para>
          Em alguns sistemas operacionais, talvez você queira especificar um caminho em um
-         sistema de arquivos (filesystem) que possa manuzear grande quantidade de pequenos arquivos eficientemente. Por exemplo,
+         sistema de arquivos (filesystem) que possa manusear grande quantidade de pequenos arquivos eficientemente. Por exemplo,
          no Linux, reiserfs pode ter performance melhor do que ext2fs.
         </para>
        </note>
