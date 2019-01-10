@@ -21,7 +21,7 @@
    <link linkend="ini.session.cache-expire">session.cache_expire</link>
    na inicialização da requisição. Então
    você precisa chamar <function>session_cache_expire</function> para cada
-   requesição (e antes que <function>session_start</function> seja utilizada).
+   requisição (e antes que <function>session_start</function> seja utilizada).
   </para>
  </refsect1>
 
